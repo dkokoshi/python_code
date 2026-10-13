@@ -2,8 +2,8 @@ import requests
 
 # 1. Update these variables with your device's exact details
 DEVICE_IP = "192.168.22.1"
-USERNAME = "user"
-PASSWORD = "user"
+USERNAME = "user1"
+PASSWORD = "user1"
 
 # 2. Define the target endpoint
 # (The exact URL path depends on the device firmware, e.g., /api/system/version or /cgi-bin/version)
